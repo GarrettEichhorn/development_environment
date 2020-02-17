@@ -4,7 +4,8 @@ This repository is a quick-start guide for data science beginners to build a dev
 
 Technology | Link
 --- | ---
-Python | 1
+Python |
+![alt text](https://github.com/GarrettEichhorn/development_environment/blob/master/tech-ecosystem/Images/python.png "Python")
 GitHub | 2
 git | 3
 Anaconda Distribution | 4
