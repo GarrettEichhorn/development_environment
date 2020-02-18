@@ -1,6 +1,10 @@
 # Summary
 
-This repository is a quick-start guide for data science beginners to build a development environment. At the time of writing, this guide includes all necessary tools to create, sustain, share and socialize data science concepts with open source technology.
+This repository provides a quick-start guide for data science beginners to build a development environment. At the time of writing, this guide includes documentation to install the necessary tools for creating, sustaining, sharing and socializing data science concepts with open source technology.
+
+
+`Please fork this repository to your own GitHub account in order to use and/or augment content.`
+
 
 Technology | Link
 --- | ---
@@ -10,7 +14,3 @@ git | [![git](https://github.com/GarrettEichhorn/development_environment/blob/ma
 Anaconda Distribution | [![Anaconda](https://github.com/GarrettEichhorn/development_environment/blob/master/tech-ecosystem/Images/Anaconda.png)](https://github.com/GarrettEichhorn/development_environment/blob/master/tech-ecosystem/04%20-%20Conda_Installation.md)
 Conda | [![Conda](https://github.com/GarrettEichhorn/development_environment/blob/master/tech-ecosystem/Images/conda.png)](https://github.com/GarrettEichhorn/development_environment/blob/master/tech-ecosystem/04%20-%20Conda_Installation.md)
 Auxiliary | [![Auxiliary](https://github.com/GarrettEichhorn/development_environment/blob/master/tech-ecosystem/Images/atom.jpg)](https://github.com/GarrettEichhorn/development_environment/blob/master/tech-ecosystem/06%20-%20Auxiliary_Installation.md)
-
-
-
-`To augment the content included in this repository, please fork to your own GitHub account.`
