@@ -1,4 +1,4 @@
-# Welcome Statement
+# Welcome  
 This document provides an overview of the technology you'll need to build effective tools for Advanced Analytics & Data Science. This overview is tailored for agnostic development environments, and should be distributed with the understanding that content may fluctuate with movement in the technology landscape. At the time of writing, all tools are free and open source.
 
 **Recommended Resources:**
