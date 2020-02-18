@@ -30,8 +30,8 @@ Conda is an open source package management system to quickly install, run and up
 6. IDE  
 An Integrated Development Environment is a software application for computer programmers to interact and edit code. Typically, an IDE streamlines access to editors, build tools, debugging, etc. A few IDE's that are recommended:  
 
-* [PyCharm](https://www.jetbrains.com/pycharm/promo/anaconda/)  
-* [VSCode](https://code.visualstudio.com/). Visual Studio Code comes with Anaconda Distribution.  
+  * [PyCharm](https://www.jetbrains.com/pycharm/promo/anaconda/)  
+  * [VSCode](https://code.visualstudio.com/) (Visual Studio Code comes with Anaconda Distribution)    
 
 7. [Jupyter Notebook](https://jupyter.org/)  
 Juputer notebooks help organize code similar to an IDE. Jupyter structures code into kernels which can be run independently of the other, making presentation / communication of code highly effective. The critical distinction: IDE's are helpful to build code, Jupyter is helpful to demonstrate code. Jupyter Notebooks come with standard Anaconda Distribution, and can be launched easily from the Anaconda desktop app. Notebooks are saved via .ipynb convention.
@@ -42,8 +42,8 @@ API stands for Application Programming Interface.
 
 9. [MongoDB](https://www.mongodb.com/)  
 MongoDB is a cross-platform document oriented database, known specifically for application development and programming. There are multiple components:  
-* [Atlas](https://www.mongodb.com/cloud/atlas) is the fully managed cloud database built for cloud-agnostic computing. Currently, we have 10GB hosted on AWS via MongoDB Atlas. Atlas makes scalability, availability and compliance easy to manage.   
-* [Compass](https://www.mongodb.com/products/compass) is the visual Graphical User Interface (GUI) to explore data in MongoDB. You can run queries, interact with data, and view performance from the Compass GUI.  
+  * [Atlas](https://www.mongodb.com/cloud/atlas) is the fully managed cloud database built for cloud-agnostic computing. Currently, we have 10GB hosted on AWS via MongoDB Atlas. Atlas makes scalability, availability and compliance easy to manage.   
+  * [Compass](https://www.mongodb.com/products/compass) is the visual Graphical User Interface (GUI) to explore data in MongoDB. You can run queries, interact with data, and view performance from the Compass GUI.  
 
 10. [Tableau](https://www.tableau.com/)  
 Tableau is a data visualization tool geared for quick, enterprise-level reporting. They have free (public) and paid (Enterprise) tiers for visualization development, with pre-built hooks into popular database systems. Tableau Server is a cloud-based, online application for building database connections and user/access administration.  
