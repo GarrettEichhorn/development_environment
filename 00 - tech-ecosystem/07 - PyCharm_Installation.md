@@ -1,4 +1,4 @@
-# Installing Pycharm
+# Installing PyCharm
 
 1. Navigate to [PyCharm](https://jetbrains.com/pycharm/promo/anaconda)
 
@@ -29,10 +29,14 @@
 14. "Create New Project" with an adequate title:  
   * Example: Name_firstProject
 
-15. Choose "Project Interpreter: New Conda Environment"  
-  * Python version 3.7
-  * Click the "eyeball" icon to show hidden PATH
-  * Add to "Conda executable":
-    *C:\Users\{your_name}\AppData\Local\Continuum\anaconda3\_conda.exe*
-    Replace {your_name} with your user alias
+15. Choose "Project Interpreter: Existing Interpreter"  
+  * Click "box" with options to the right of the dropdown pane
+  * In the "Add Python Interpreter" window, make sure you're in the "Conda Environment" pane
+  * Click "box" with options to the right of the dropdown pane for "Interpreter"
+  * Add to Path: *C:\Users\{your_name}\AppData\Local\Continuum\anaconda3\envs\winter\python.exe*
+  * Replace {your_name} with your user alias
+  * The Conda executable should automatically populate
+  * Select "Make available to all projects"
+  * Click "OK"
+  * You should be automatically be back to the "New Project" window
   * Click "Create"

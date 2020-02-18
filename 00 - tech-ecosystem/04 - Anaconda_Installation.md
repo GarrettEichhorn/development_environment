@@ -23,3 +23,11 @@
 10. **Optional Step** if you have not already installed PyCharm you can do so now by clicking the "Install Pycharm". Please follow the separate installation instructions.
 
 11. After a completion the there will be a "Thanks for installing Anaconda" dialog box.
+
+12. Open "Anaconda Navigator" from your applications window  
+
+13. Open "Environments" in the left-side pane and click "Create"
+
+14. Name the new environment: "winter"
+
+15. Once the environment has finished uploading, exit Anaconda
