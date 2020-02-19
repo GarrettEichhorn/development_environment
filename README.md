@@ -14,5 +14,4 @@ git | [![git](https://github.com/GarrettEichhorn/development_environment/blob/ma
 Anaconda Distribution | [![Anaconda](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/Images/Anaconda.png)](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/04%20-%20Anaconda_Installation.md)
 Conda | [![Conda](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/Images/conda.png)](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/05%20-%20Conda_Installation.md)
 Pycharm | [![PyCharm](https://github.com/GarrettEichhorn/development_environment/tree/master/00%20-%20tech-ecosystem/Images/pycharm.png)](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/06%20-%20PyCharm_Installation.md)
-
 Auxiliary | [![Auxiliary](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/Images/atom.jpg)](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/07%20-%20Auxiliary_Installations.md)
