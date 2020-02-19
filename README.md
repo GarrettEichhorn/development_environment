@@ -9,7 +9,7 @@ This repository provides a quick-start guide for data science beginners to build
 
 | Documentation
 | ---
-| [![Python](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/Images/python.jpg/200/300?style=centerme)](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/01%20-%20Python_Installation.md)
+| [![Python](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/Images/python.jpg)](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/01%20-%20Python_Installation.md)
 | [![GitHub](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/Images/GitHub.jpg)](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/02%20-%20GitHub_Installation.md)
 | [![git](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/Images/git.jpg)](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/03%20-%20git_Installation.md)
 | [![Anaconda](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/Images/Anaconda.jpg)](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/04%20-%20Anaconda_Installation.md)
