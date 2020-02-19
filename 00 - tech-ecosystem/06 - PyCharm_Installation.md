@@ -26,10 +26,13 @@
 
 13. I do not recommend downloading featured plugins just yet.
 
-14. "Create New Project" with an adequate title:  
-  * Example: Name_firstProject
+14. "Create New Project" with an adequate title:
+
+  * Example: Name_firstProject  
+
 
 15. Choose "Project Interpreter: Existing Interpreter"  
+
   * Click "box" with options to the right of the dropdown pane
   * In the "Add Python Interpreter" window, make sure you're in the "Conda Environment" pane
   * Click "box" with options to the right of the dropdown pane for "Interpreter"
