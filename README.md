@@ -5,8 +5,9 @@ This repository provides a quick-start guide for data science beginners to build
 
 `Please fork this repository to your own GitHub account in order to use and/or augment content.`
 
+## [Technology Ecosystem - Overview](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/00%20-%20Tech_Ecosystem.md)
 
-Technology | Link
+Tool | Documentation
 --- | ---
 Python | [![Python](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/Images/python.png)](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/01%20-%20Python_Installation.md)
 GitHub | [![GitHub](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/Images/GitHub.png)](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/02%20-%20GitHub_Installation.md)
