@@ -14,7 +14,7 @@
 
 7. Add anaconda to your `PATH` variables and register your default Python to 3.7
 
-![anaconda_PATH](https://github.com/GarrettEichhorn/development_environment/tree/master/00%20-%20tech-ecosystem/Images/anaconda_path.png)
+![anaconda_PATH](https://github.com/GarrettEichhorn/development_environment/blob/master/00%20-%20tech-ecosystem/Images/anaconda_path.png)
 
 8. Click the Install button. THIS WILL TAKE A WHILE - click "Show details" for more information
 
