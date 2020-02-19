@@ -33,10 +33,11 @@ An Integrated Development Environment is a software application for computer pro
   * [PyCharm](https://www.jetbrains.com/pycharm/promo/anaconda/)  
   * [VSCode](https://code.visualstudio.com/) (Visual Studio Code comes with Anaconda Distribution)    
 
+
 7. [Jupyter Notebook](https://jupyter.org/)  
 Juputer notebooks help organize code similar to an IDE. Jupyter structures code into kernels which can be run independently of the other, making presentation / communication of code highly effective. The critical distinction: IDE's are helpful to build code, Jupyter is helpful to demonstrate code. Jupyter Notebooks come with standard Anaconda Distribution, and can be launched easily from the Anaconda desktop app. Notebooks are saved via .ipynb convention.
 
-8. [Postman](https://www.postman.com/)  
+8. [Postman](https://www.postman.com/) (optional)  
 Postman is a collaboration platform for API development. They have an easy-to-use desktop app for formatting and building API connections.
 API stands for Application Programming Interface.
 
@@ -45,11 +46,9 @@ MongoDB is a cross-platform document oriented database, known specifically for a
   * [Atlas](https://www.mongodb.com/cloud/atlas) is the fully managed cloud database built for cloud-agnostic computing. Currently, we have 10GB hosted on AWS via MongoDB Atlas. Atlas makes scalability, availability and compliance easy to manage.   
   * [Compass](https://www.mongodb.com/products/compass) is the visual Graphical User Interface (GUI) to explore data in MongoDB. You can run queries, interact with data, and view performance from the Compass GUI.  
 
-10. [Tableau](https://www.tableau.com/)  
-Tableau is a data visualization tool geared for quick, enterprise-level reporting. They have free (public) and paid (Enterprise) tiers for visualization development, with pre-built hooks into popular database systems. Tableau Server is a cloud-based, online application for building database connections and user/access administration.  
 
-11. [Studio3T](https://studio3t.com/) (optional)  
-Studio3T is a professional GUI developed for MongoDB beginners. The application assists with query building, data exploration, import/export, code generation, etc. Studio3T is wonderful for building NoSQL queries and translating in Python code.  
+10. [Studio3T](https://studio3t.com/) (optional)  
+Studio3T is a professional GUI developed for MongoDB beginners. The application assists with query building, data exploration, import/export, code generation, etc. Studio3T is wonderful for building NoSQL queries and translating in Python code.
 
-12. [Atom](https://atom.io/) (optional)  
+11. [Atom](https://atom.io/) (optional)  
 Atom is a hackable text editor for configuring code outside of the development environment. You can use the native text editor or a different configurable editor; Atom is preferred because it integrates with GitHub and has grammar detection (among many other great features).  
