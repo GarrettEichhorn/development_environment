@@ -28,7 +28,7 @@
 
 14. "Create New Project" with an adequate title:
 
-  * Example: Name_firstProject  
+  * Example: {YourName}_firstProject  
 
 
 15. Choose "Project Interpreter: Existing Interpreter"  
@@ -42,4 +42,7 @@
   * Select "Make available to all projects"
   * Click "OK"
   * You should be automatically be back to the "New Project" window
-  * Click "Create"
+  * Click "Create"  
+
+
+16. This project is now linked to an approved `environment` that we can configure directly from Anaconda Navigator. Nice work!

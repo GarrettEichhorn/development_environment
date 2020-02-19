@@ -13,3 +13,12 @@
   * Click through on all native settings to launch the installer
 
 4. Launch Git Bash! (uncheck "View Release Notes")
+
+5. Navigate to your `github_repositories` folder. There should only be one file inside - a text file that contains a connection string to your forked copy of `development_environment`
+
+6. In your new `git bash` window, please enter:  
+ `git clone https://github.com/{your_name}/development_environment.git`. You must replace the HTTPS link with **your** copied connection string.
+
+7. Your `github_repositories` folder will now contain all relevant information you need to navigate the installation process for the development environment.
+
+8. Feeling confident in your git skills? Take the [test](https://github.com/git-game/git-game#notification-settings)!
