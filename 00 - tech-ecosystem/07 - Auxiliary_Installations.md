@@ -82,9 +82,6 @@ If the command throws an error, refer to this [guide](https://jupyter-notebook.r
 
 ----------------
 
-## Tableau
-
-----------------
 
 ## Atom
 
